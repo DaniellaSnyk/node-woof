@@ -11,7 +11,7 @@ into your application!
 
 The [runtime monitoring tool is open source](https://github.com/snyk/nodejs-runtime-agent).
 The documentation on how to get started with contributing to the agent is hosted
-on that project.
+on that project..
 
 
 ### How?
